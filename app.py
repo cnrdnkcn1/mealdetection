@@ -14,7 +14,7 @@ class ClientApp:
         self.filename = "inputImage.jpg"
 
 
-
+# asd
 @app.route("/train")
 def trainRoute():
     obj = TrainPipeline()
